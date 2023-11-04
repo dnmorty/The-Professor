@@ -1,4 +1,8 @@
-# The Professor - Join Us in Revolutionizing Education!
+# The Professor - Join Us in Revolutionizing Education!  
+<p align="center">
+    <img src="assets/logo.jpg" alt="The Professor logo. If you have 20 dollars in your pocket, you can start college today.">  
+</p>  
+
 #### Welcome to "The Professor," a groundbreaking project that aims to transform the landscape of education. We believe that everyone should have access to affordable, flexible, and high-quality learning opportunities. Our mission is to make higher education accessible to all, and we need your help to turn this vision into reality.
 
 ## Our Vision
